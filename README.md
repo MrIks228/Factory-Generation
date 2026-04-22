@@ -13,7 +13,7 @@
    У вас должны быть следующие файлы: <img width="268" height="196" alt="image" src="https://github.com/user-attachments/assets/b7dedb9f-6a0a-40fd-8e60-b5bd2c5fa033" />
 
 4. Скопируйте папку мода в Win64\ue4ss\Mods
-5. В файл mods.txt в конец (после BPModLoaderMod : 1) добавте FactoryGeneration : 1, сохраните файл
+5. В файл mods.txt в конец (после BPModLoaderMod : 1) добавте "FactoryGeneration : 1" (без ковычек), сохраните файл
 
 Использование:
 
